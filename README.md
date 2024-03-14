@@ -1,6 +1,6 @@
 # website-habitos-sustentaveis
 
-## Status: finishing
+## Status: finished
 
 * HTML5
 * CSS3
