@@ -84,7 +84,7 @@ main{
           transition: top 0.5s;
      }
      .nav--active{
-          top: 5vh;
+          top: 4vh;
           transition: top 0.5s;
      }
      nav h4{
